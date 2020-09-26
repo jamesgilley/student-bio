@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background: rgb(112, 110, 110);
+    color: white;
+    height: 50px; 
+}
+main {
+ display: flex;
+ justify-content: space-around;
+ align-items: top;
+}
+h1 {
+ margin: 0; 
+
+    
+}
+
+img {
+    height: 250px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.columnleft {
+    display: block;
+    margin: 50px;
+    width: 70%;
+  }
+  .columnright {
+      padding-top: 40px;
+      margin-right: 50px;
+  }
+   
+  .columnmiddle {
+    width: 30%;
+    padding-top: 90px;
+    margin-right: 20px;
+    float: left;
+  }
+  .container {
+   display: inline;   
+  }
