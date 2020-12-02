@@ -1,3 +1,3 @@
 # student-bio
 
-short Bio
+short Bio about me
